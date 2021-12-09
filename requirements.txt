@@ -1,0 +1,16 @@
+﻿cffi==1.15.0
+click==8.0.3
+colorama==0.4.4
+Flask==2.0.2
+fuzzywuzzy==0.18.0
+itsdangerous==2.0.1
+Jinja2==3.0.3
+MarkupSafe==2.0.1
+numpy
+opencv-python==4.5.4.58
+PyAudio @ file:///C:/Users/TANYA/dev/HackComputerVision/Hackathon/utils/PyAudio-0.2.11-cp38-cp38-win_amd64.whl
+#pyaudio
+pycparser==2.21
+SpeechRecognition==3.8.1
+vosk==0.3.32
+Werkzeug==2.0.2
